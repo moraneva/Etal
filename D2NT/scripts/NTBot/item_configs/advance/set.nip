@@ -175,8 +175,8 @@
 //[Name] == BalrogSkin && [Quality] == set // Sazabi's Ghost Liberator
 
 // ##### Tal Rasha's Wrappings #########
-//[Name] == SwirlingCrystal && [Quality] == set // Tal Rasha's Lidless Eye
-//[Name] == DeathMask && [Quality] == set // Tal Rasha's Horadric Crest
+[Name] == SwirlingCrystal && [Quality] == set // Tal Rasha's Lidless Eye
+[Name] == DeathMask && [Quality] == set // Tal Rasha's Horadric Crest
 [Name] == LacqueredPlate && [Quality] == set # [Defense] >= 900 // Tal Rasha's Guardianship
 [Type] == amulet && [Quality] == set # [SorceressSkills] == 2 // Tal Rasha's Adjucation
 [Name] == MeshBelt && [Quality] == set # [ItemMagicBonus] >= 15 // Tal Rasha's Fine-Spun Cloth

@@ -96,20 +96,20 @@
 //[Name] == NefRune
 //[Name] == EthRune
 //[Name] == IthRune
-//[Name] == TalRune
-//[Name] == RalRune
+[Name] == TalRune
+[Name] == RalRune
 //[Name] == OrtRune
 //[Name] == ThulRune
 //[Name] == AmnRune
-//[Name] == SolRune
+[Name] == SolRune
 //[Name] == ShaelRune
 //[Name] == DolRune
 //[Name] == HelRune
-//[Name] == IoRune
-//[Name] == LumRune
-//[Name] == KoRune
-//[Name] == FalRune
-//[Name] == LemRune
+[Name] == IoRune
+[Name] == LumRune
+[Name] == KoRune
+[Name] == FalRune
+[Name] == LemRune
 [Name] == PulRune
 [Name] == UmRune
 [Name] == MalRune
@@ -144,13 +144,13 @@
 //[Name] == FlawlessSapphire
 //[Name] == FlawlessSkull
 //[Name] == FlawlessTopaz
-//[Name] == PerfectAmethyst
-//[Name] == PerfectDiamond
-//[Name] == PerfectEmerald
-//[Name] == PerfectRuby
-//[Name] == PerfectSapphire
-//[Name] == PerfectSkull
-//[Name] == PerfectTopaz
+[Name] == PerfectAmethyst
+[Name] == PerfectDiamond
+[Name] == PerfectEmerald
+[Name] == PerfectRuby
+[Name] == PerfectSapphire
+[Name] == PerfectSkull
+[Name] == PerfectTopaz
 
 // ##### Potions #######################
 //[Name] == GreaterHealingPotion
@@ -174,4 +174,4 @@
 [Name] == TokenOfAbsolution
 
 // ##### Gold ##########################
-[Type] == gold # [Gold] >= 3000
+[Type] == gold # [Gold] >= 1000

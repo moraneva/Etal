@@ -1,6 +1,6 @@
 // ##### Helms #########################
 [Name] == GrimHelm && [Quality] == unique # [LifeLeech] >= 7 && [ManaLeech] >= 7 && [DamageResist] >= 18 // Vampire Gaze
-[Name] == Shako && [Quality] == unique # [Defense] >= 120 // Harlequin Crest
+[Name] == Shako && [Quality] == unique // Harlequin Crest
 [Name] == Demonhead && [Quality] == unique # [EnhancedDefense] >= 120 && [LifeLeech] >= 9 && [Strength] >= 28 // Andariel's Visage
 [Name] == BoneVisage && [Quality] == unique # [Sockets] >= 2 && [Defense] >= 400 && [Strength] >= 30 // Giant Skull
 [Name] == SpiredHelm && [Quality] == unique # [PassiveColdMastery] >= 12 && [Dexterity] >= 15 // Nightwing's Veil
